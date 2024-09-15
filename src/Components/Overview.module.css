@@ -1,0 +1,42 @@
+body{
+    font-size: small;
+}
+.container{
+    width: 100vw;
+    padding: 20px 80px;
+}
+.container h4 {
+    text-align: start;
+    color: 1E3932;
+    font-weight: bold;
+}
+
+.image1,
+.image2,
+.image3,
+.image4,
+.image5,
+.image6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.image1 img,
+.image2 img,
+.image3 img,
+.image4 img,
+.image5 img,
+.image6 img {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.images {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

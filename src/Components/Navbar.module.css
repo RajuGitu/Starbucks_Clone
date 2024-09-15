@@ -1,0 +1,33 @@
+.container {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px 80px;
+    background-color: rgba(0, 0, 0, 0.175);
+    gap: 30px;
+}
+
+.container p {
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+    color: #00000094;
+    cursor: pointer;
+}
+.active{
+    border-bottom: 1px solid #00754a;
+    color: #00754a !important;
+}
+.container p:hover{
+    border-bottom: 1px solid #279b5b;
+    color: #279b5b;
+}
+.container span{
+    color: #00000094;
+}
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
