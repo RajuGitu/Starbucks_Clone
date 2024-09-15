@@ -7,7 +7,7 @@ import Foods from "./Components/Foods";
 import Merchandise from "./Components/Merchandise";
 import CoffeeAtHome from "./Components/CoffeeAtHome";
 import ReadyToEat from "./Components/ReadyToEat";
-import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom'; // Import Navigate for redirection
+import { HashRouter as Router, Route, Routes, Navigate } from 'react-router-dom'; // Import Navigate for redirection
 
 function App() {
   return (
