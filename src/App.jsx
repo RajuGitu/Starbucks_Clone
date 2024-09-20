@@ -1,13 +1,13 @@
 import Home from "./Components/Home";
 import Order from "./Components/Order";
 import Header from "./Components/Header";
-import Drinks from "./Components/Drinks"; 
+import Drinks from "./Components/Drinks";
 import Bestseller from "./Components/Bestseller"
 import Foods from "./Components/Foods";
 import Merchandise from "./Components/Merchandise";
 import CoffeeAtHome from "./Components/CoffeeAtHome";
 import ReadyToEat from "./Components/ReadyToEat";
-import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom'; // Import Navigate for redirection
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 
 function App() {
   return (
