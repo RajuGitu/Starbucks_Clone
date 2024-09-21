@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/ff243c0c-83dd-40fb-9e0f-a684e2ee6e9d
+
 <h1>Starbucks Clone</h1>
 This is a Starbucks home page and order page clone built with Vite and React. The project replicates the Starbucks website's design and functionality, focusing on a responsive, user-friendly interface.
 
@@ -15,7 +17,3 @@ React for building the UI components and handling state.
 Vite for fast development and optimized production builds.
 CSS Modules for styling and maintaining a modular approach.
 Responsive design for both desktop and mobile views.
-
-
-<video controls src="Starbucks.mp4" title="Title"></video>
-
